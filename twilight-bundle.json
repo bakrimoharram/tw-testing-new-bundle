@@ -1,0 +1,14 @@
+{
+    "name": {
+        "ar": "testing-new-bundle",
+        "en": "testing-new-bundle"
+    },
+    "description": {
+        "ar": "",
+        "en": ""
+    },
+    "author_email": "bakri.moharram@gmail.com",
+    "support_url": "",
+    "repository": "https://github.com/bakrimoharram/tw-testing-new-bundle",
+    "components": []
+}
